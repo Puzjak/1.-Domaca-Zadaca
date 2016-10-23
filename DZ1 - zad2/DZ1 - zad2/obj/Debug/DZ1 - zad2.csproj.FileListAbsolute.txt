@@ -1,0 +1,6 @@
+c:\users\mp49290\documents\visual studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\bin\Debug\DZ1 - zad2.exe.config
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\obj\Debug\DZ1 - zad2.csprojResolveAssemblyReference.cache
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\bin\Debug\DZ1 - zad2.exe
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\bin\Debug\DZ1 - zad2.pdb
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\obj\Debug\DZ1 - zad2.exe
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ1 - zad2\DZ1 - zad2\obj\Debug\DZ1 - zad2.pdb
